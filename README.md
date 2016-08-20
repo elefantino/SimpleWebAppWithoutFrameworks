@@ -1,4 +1,7 @@
-# SimpleWebAppWithoutFrameworks
-This is a very simple web app that does not use any framework. It loads data from json and allows add/remove items from the list
+# Simple Web App Without Any Framework
+
+This is a simple web application created without any framework. This app uses only JQuery as a third party library to operate DOM elements in HTML.
+
+It loads initial data from the json file and allows users to add and remove categories, manufacturers, and products.
 
 Demo: http://elenarosetest.netau.net/
