@@ -4,4 +4,4 @@ This is a simple web application created without any framework. This app uses on
 
 It loads initial data from the json file and allows users to add and remove categories, manufacturers, and products.
 
-Demo: http://elenarosetest.netau.net/
+Demo: https://elefantino.github.io/SimpleWebApp/
